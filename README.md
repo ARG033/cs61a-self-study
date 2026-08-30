@@ -2,7 +2,8 @@
 
 |   Labs |   Homework |   Discussions | CS Mentors (CSM) | Projects |
 | :--- | :--- | :--- | :--- | :--- |
-| `lab01` ⬜ | `hw01` ⬜ | `disc01` ⬜ | `csm01` ⬜ | **`hog`** ⬜ |
+|`lab00` ✅ | 
+|`lab01` ⬜ | `hw01` ⬜ | `disc01` ⬜ | `csm01` ⬜ | **`hog`** ⬜ |
 | `lab02` ⬜ | `hw02` ⬜ | `disc02` ⬜ | `csm02` ⬜ | **`cats`** / **`maps`** ⬜ |
 | `lab03` ⬜ | `hw03` ⬜ | `disc03` ⬜ | `csm03` ⬜ | **`ants`** ⬜ |
 | `lab04` ⬜ | `hw04` ⬜ | `disc04` ⬜ | `csm04` ⬜ | **`scheme`** ⬜ |
