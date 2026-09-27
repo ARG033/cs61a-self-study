@@ -1,2 +1,0 @@
-[console_scripts]
-pytest-grader = pytest_grader.cli:cli_main
